@@ -1,14 +1,14 @@
 {
-  "name": "@kibalabs/core",
+  "name": "@hook-tech/core",
   "version": "0.5.3",
-  "description": "Utilities for use in front-end projects at Kiba Labs",
+  "description": "Utilities for use in front-end projects at Hook",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kibalabs/core-js.git"
+    "url": "https://github.com/hook-tech/core-js.git"
   },
-  "homepage": "https://github.com/kibalabs/core-js",
-  "bugs": "https://github.com/kibalabs/core-js/issues",
+  "homepage": "https://github.com/hook-tech/core-js",
+  "bugs": "https://github.com/hook-tech/core-js/issues",
   "scripts": {
     "build": "build-module",
     "start": "build-module --start",
@@ -32,6 +32,6 @@
     "fast-deep-equal": "^3.1.3"
   },
   "devDependencies": {
-    "@kibalabs/build": "0.6.5-next.8"
+    "@hook-tech/build": "0.6.4"
   }
 }
